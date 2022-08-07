@@ -1,0 +1,14 @@
+wineDataSet.txt
+fixed acidity 고정산도
+volatile acidity 휘발성산도
+citric acid 구연산
+residual sugar 잔당
+chlorides 염화물
+free sulfur dioxide 유리 이산화황
+total sulfur dioxide 총 이산화황
+density 밀도
+pH 산도
+sulphates 황산염
+alcohol 알코올수치
+quality 품질
+
